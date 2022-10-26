@@ -1,0 +1,15 @@
+D:\Education\Verification Work\GB_Final_Mission_1\bin\Debug\net6.0\GB_Final_Mission_1.exe
+D:\Education\Verification Work\GB_Final_Mission_1\bin\Debug\net6.0\GB_Final_Mission_1.deps.json
+D:\Education\Verification Work\GB_Final_Mission_1\bin\Debug\net6.0\GB_Final_Mission_1.runtimeconfig.json
+D:\Education\Verification Work\GB_Final_Mission_1\bin\Debug\net6.0\GB_Final_Mission_1.dll
+D:\Education\Verification Work\GB_Final_Mission_1\bin\Debug\net6.0\GB_Final_Mission_1.pdb
+D:\Education\Verification Work\GB_Final_Mission_1\obj\Debug\net6.0\GB_Final_Mission_1.csproj.AssemblyReference.cache
+D:\Education\Verification Work\GB_Final_Mission_1\obj\Debug\net6.0\GB_Final_Mission_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Verification Work\GB_Final_Mission_1\obj\Debug\net6.0\GB_Final_Mission_1.AssemblyInfoInputs.cache
+D:\Education\Verification Work\GB_Final_Mission_1\obj\Debug\net6.0\GB_Final_Mission_1.AssemblyInfo.cs
+D:\Education\Verification Work\GB_Final_Mission_1\obj\Debug\net6.0\GB_Final_Mission_1.csproj.CoreCompileInputs.cache
+D:\Education\Verification Work\GB_Final_Mission_1\obj\Debug\net6.0\GB_Final_Mission_1.dll
+D:\Education\Verification Work\GB_Final_Mission_1\obj\Debug\net6.0\refint\GB_Final_Mission_1.dll
+D:\Education\Verification Work\GB_Final_Mission_1\obj\Debug\net6.0\GB_Final_Mission_1.pdb
+D:\Education\Verification Work\GB_Final_Mission_1\obj\Debug\net6.0\GB_Final_Mission_1.genruntimeconfig.cache
+D:\Education\Verification Work\GB_Final_Mission_1\obj\Debug\net6.0\ref\GB_Final_Mission_1.dll

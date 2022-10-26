@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Education\\GB_Final_Mission_1\\GB_Final_Mission_1\\GB_Final_Mission_1.csproj",
+      "projectUniqueName": "D:\\Education\\Verification Work\\GB_Final_Mission_1\\GB_Final_Mission_1.csproj",
       "projectName": "GB_Final_Mission_1",
-      "projectPath": "D:\\Education\\GB_Final_Mission_1\\GB_Final_Mission_1\\GB_Final_Mission_1.csproj",
+      "projectPath": "D:\\Education\\Verification Work\\GB_Final_Mission_1\\GB_Final_Mission_1.csproj",
       "packagesPath": "C:\\Users\\kirkf\\.nuget\\packages\\",
-      "outputPath": "D:\\Education\\GB_Final_Mission_1\\GB_Final_Mission_1\\obj\\",
+      "outputPath": "D:\\Education\\Verification Work\\GB_Final_Mission_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
